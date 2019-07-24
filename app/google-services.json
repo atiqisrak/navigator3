@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "55987753035",
+    "firebase_url": "https://johnwicknavigator.firebaseio.com",
+    "project_id": "johnwicknavigator",
+    "storage_bucket": "johnwicknavigator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55987753035:android:6201f7190c451475",
+        "android_client_info": {
+          "package_name": "com.techcare.navigator3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55987753035-2qa83b4uv18ant2m3ug38b0jfviket9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOyohBRHxlDHEiZPUJL5afbRTjIP7cinE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55987753035-2qa83b4uv18ant2m3ug38b0jfviket9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
